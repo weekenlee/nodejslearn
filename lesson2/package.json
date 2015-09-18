@@ -1,0 +1,22 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "lesson2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lesson"
+  },
+  "keywords": [
+    "lesson2"
+  ],
+  "author": "lwj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "utility": "^1.4.0"
+  }
+}
